@@ -36,6 +36,10 @@ or Virtualenv via conda
 
 FireFox
 
+### Amazon Acount Security
+
+2段階認証の解除、プログラム実行後は手動で戻して下さい。
+
 
 ## Create Virtualenv
 
