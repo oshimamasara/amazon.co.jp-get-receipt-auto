@@ -1,5 +1,9 @@
 <img src="https://pythonchannel.com/media/github/Amazon-Program-Demo-Image.jpg">
 
+## How to Sample Video
+
+https://www.youtube.com/watch?v=BglGGYvR31E
+
 ## Info
 
 Amazon.co.jp で買った商品の累計額を一発で算出するプログラムの　amazon_get_total_payment.py。
