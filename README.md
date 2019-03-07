@@ -71,6 +71,8 @@ Amazon.co.jp 2018年度のお買い物合計金額一発算出
 
 ```python amazon_get_total_payment.py```
 
+## Other
 
-
-> HTML PDF Converter https://html2pdf.com/ (limit 20 files/time)
+HTML PDF Converter 
+https://html2pdf.com/ 
+(limit 20 files/time)
