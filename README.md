@@ -42,9 +42,13 @@ env\Scripts\activate
 + Amazon Acount Info
 
 ## Run
-領収書の自動保存（HTMLファイル形式）
+Amazon.co.jp 領収書の自動保存（HTMLファイル形式）
+
 ```python amazon_get_total_payment.py```
 
-2018年度のお買い物合計金額一発算出
+Amazon.co.jp 2018年度のお買い物合計金額一発算出
+
 ```python amazon_get_total_payment.py```
 
+
+> HTML PDF Converter https://html2pdf.com/ (limit 20 files/time)
