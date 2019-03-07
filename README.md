@@ -1,3 +1,5 @@
+<img src="https://pythonchannel.com/media/github/GitHub-Amazon-Program-Demo-Image.jpg">
+
 ## Info
 
 Amazon.co.jp で買った商品の累計額を一発で算出するプログラムの　amazon_get_total_payment.py。
