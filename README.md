@@ -2,7 +2,8 @@
 
 ### Python Version
 ```python -V```
-Over Python Version 3
+
+Need Python Version < 3
 
 ### pip
 ```pip -V```
@@ -39,4 +40,11 @@ env\Scripts\activate
 ## Edit Code
 
 + Amazon Acount Info
-+ 
+
+## Run
+領収書の自動保存（HTMLファイル形式）
+```python amazon_get_total_payment.py```
+
+2018年度のお買い物合計金額一発算出
+```python amazon_get_total_payment.py```
+
