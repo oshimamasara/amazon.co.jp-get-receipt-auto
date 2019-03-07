@@ -2,6 +2,10 @@
 
 ## How to Sample Video
 
+支払金額の合計を自動算出
+https://youtu.be/Xn65Vkuv1sM
+
+アマゾンの領収書を自動保存
 https://www.youtube.com/watch?v=BglGGYvR31E
 
 ## Info
