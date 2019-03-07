@@ -1,4 +1,4 @@
-<img src="https://pythonchannel.com/media/github/GitHub-Amazon-Program-Demo-Image.jpg">
+<img src="https://pythonchannel.com/media/github/GitHub-Amazon-Program-Demo-Image.jpg" width="100%">
 
 ## Info
 
