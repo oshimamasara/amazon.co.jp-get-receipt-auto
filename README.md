@@ -75,7 +75,7 @@ env\Scripts\activate
 ## Run
 Amazon.co.jp 領収書の自動保存（HTMLファイル形式）
 
-```python amazon_get_total_payment.py```
+```python amazon_get_receipt_auto.py```
 
 Amazon.co.jp 2018年度のお買い物合計金額一発算出
 
