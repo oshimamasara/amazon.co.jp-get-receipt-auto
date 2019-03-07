@@ -32,6 +32,10 @@ Need Python Version < 3
 
 or Virtualenv via conda
 
+### Browser
+
+FireFox
+
 
 ## Create Virtualenv
 
@@ -72,6 +76,12 @@ Amazon.co.jp 領収書の自動保存（HTMLファイル形式）
 Amazon.co.jp 2018年度のお買い物合計金額一発算出
 
 ```python amazon_get_total_payment.py```
+
+## 原理
+Pythonのスクレイピング・ツール Selenium を使って、人間の代わりにブラウザを操作するようプログラムされています。詳細は、プログラムをご確認ください。
+
+## 免責
+本プログラムは、Amazon.co.jp の 2018年分　を対象としたプログラムです。 また Amazon側で Webページの仕様変更があれば恐らくプログラムエラーになります。その際は、プログラムの変更が必要になるでしょう。また Amazon側 が、 Webスクレイピングを BAN! した場合、本プログラムは動きません。
 
 ## Other
 
