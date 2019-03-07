@@ -1,4 +1,4 @@
-<img src="https://pythonchannel.com/media/github/swift-simple-draw-sample-demo-image.jpg">
+<img src="https://pythonchannel.com/media/github/GitHub-Amazon-Program-Demo-Image.jpg">
 
 ## Info
 
