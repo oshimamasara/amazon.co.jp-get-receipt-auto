@@ -13,7 +13,7 @@ Amazon.co.jp で買った商品の領収書を自動でパソコンに保存す�
 + Amazon.co.jp 買い物分
 + 2018年の履歴を対象
 
----
+
 
 ## Check
 
@@ -30,7 +30,6 @@ Need Python Version < 3
 
 or Virtualenv via conda
 
----
 
 ## Create Virtualenv
 
@@ -48,20 +47,20 @@ python -m virtualenv env
 env\Scripts\activate
 ```
 
----
+
 
 ## Install pip
 
 ### Selenium
 ```pip install selenium```
 
----
+
 
 ## Edit Code
 
 + Amazon Acount Info
 
----
+
 
 ## Run
 Amazon.co.jp 領収書の自動保存（HTMLファイル形式）
@@ -72,6 +71,6 @@ Amazon.co.jp 2018年度のお買い物合計金額一発算出
 
 ```python amazon_get_total_payment.py```
 
----
+
 
 > HTML PDF Converter https://html2pdf.com/ (limit 20 files/time)
