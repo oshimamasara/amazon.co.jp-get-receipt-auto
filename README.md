@@ -48,7 +48,7 @@ FireFox
 
 2段階認証の解除、プログラム実行後は手動で戻して下さい。
 
-### Change Directory to Project Folder
+## Change Directory to Project Folder
 
 sample: 
 ```cd /home/oshimamasara/ダウンロード/amazon.co.jp-get-receipt-auto-master```
