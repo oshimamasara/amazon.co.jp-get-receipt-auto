@@ -1,6 +1,6 @@
 <img src="https://pythonchannel.com/media/github/Amazon-Program-Demo-Image.jpg">
 
-## How to Sample Video
+## How to Use... Sample Video
 
 支払金額の合計を自動算出
 https://youtu.be/Xn65Vkuv1sM
@@ -48,6 +48,10 @@ FireFox
 
 2段階認証の解除、プログラム実行後は手動で戻して下さい。
 
+### Change Directory to Project Folder
+
+sample: 
+```cd /home/oshimamasara/ダウンロード/amazon.co.jp-get-receipt-auto-master```
 
 ## Create Virtualenv
 
