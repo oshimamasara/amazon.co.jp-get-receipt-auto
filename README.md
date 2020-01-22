@@ -24,11 +24,16 @@ Amazon.co.jp で買った商品の領収書を自動でパソコンに保存す�
 
 ついでに領収書も自動保存するプログラムを作成。私の場合は領収書は保存のみ、印刷なしなので HTMLファイル形式で自動保存としています。
 
+```
+【領収書保管義務期間】
+白色申告者　5年
+青色申告者　7年
+```
+
 ### 本プログラムの対象
 
 + Amazon.co.jp 買い物分
-+ 2018年の履歴を対象
-
++ 2019年の履歴を対象
 
 
 ## Check
@@ -40,11 +45,6 @@ Need Python Version < 3
 
 ### pip
 ```pip -V```
-
-### Virtualenv
-```pip show virtualenv```
-
-or Virtualenv via conda
 
 ### Browser
 
@@ -64,7 +64,7 @@ sample:
 Mac, Ubuntu
 
 ```
-virtualenv env
+python3.6 -m venv env
 source env/bin/activate
 ```
 
@@ -75,20 +75,15 @@ python -m virtualenv env
 env\Scripts\activate
 ```
 
-
-
 ## Install pip
 
 ### Selenium
 ```pip install selenium```
 
 
-
 ## Edit Code
 
-+ Amazon Acount Info
-
-
++ Amazon.co.jp ログイン情報（メール、パスワード）
 
 ## Run
 Amazon.co.jp 領収書の自動保存（HTMLファイル形式）
@@ -103,7 +98,7 @@ Amazon.co.jp 2018年度のお買い物合計金額一発算出
 Pythonのスクレイピング・ツール Selenium を使って、人間の代わりにブラウザを操作するようプログラムされています。詳細は、プログラムをご確認ください。
 
 ## 免責
-本プログラムは、Amazon.co.jp の 2018年分　を対象としたプログラムです。 また Amazon側で Webページの仕様変更があれば恐らくプログラムエラーになります。その際は、プログラムの変更が必要になるでしょう。また Amazon側 が、 Webスクレイピングを BAN! した場合、本プログラムは動きません。
+本プログラムは、Amazon.co.jp の 2019年分　を対象としたプログラムです。 また Amazon側で Webページの仕様変更があれば恐らくプログラムエラーになります。その際は、プログラムの変更が必要になるでしょう。また Amazon側 が、 Webスクレイピングを BAN! した場合、本プログラムは動きません。
 
 ## Other
 
