@@ -1,5 +1,9 @@
 + 2019年購入分対応（Amazon.co.jp での支払い累計金額および領収書の保存（.html file））
 
+<hr>
+
+> 以下 2018年バージョンのテキスト、 2019も動かし方などは同じ
+
 <img src="https://pythonchannel.com/media/github/Amazon-Program-Demo-Image.jpg">
 
 ## How to Use... Sample Video
