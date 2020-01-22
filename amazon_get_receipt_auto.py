@@ -95,6 +95,7 @@ def page_scrape():
             time.sleep(1)
     
     except:
+        html_file_number = html_file_number - 1
         print("取得HTMLファイル数： " + str(html_file_number))
 
 while True:
