@@ -41,7 +41,7 @@ Amazon.co.jp で買った商品の領収書を自動でパソコンに保存す�
 ### Python Version
 ```python -V```
 
-Need Python Version < 3
+Need Python Version < 3.7
 
 ### pip
 ```pip -V```
@@ -64,7 +64,7 @@ sample:
 Mac, Ubuntu
 
 ```
-python3.6 -m venv env
+python3.7 -m venv env
 source env/bin/activate
 ```
 
